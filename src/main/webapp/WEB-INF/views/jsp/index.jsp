@@ -40,15 +40,16 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Mithun Technologies, Marathahalli, Banglore.</h2>
-			<h3>Contact @ +91-8296242028 ,+91-9980923226</h3>
+			<h2>Welcome To MY WORLD.</h2>
+			<h3>Contact @ +91-9177792215 ,+91-9573207577</h3>
+			<h4>I LOVE YOU MADHU</h4>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2019</p>
+		<p>&copy; SRAVAN Technologies 2022</p>
 	</footer>
 </div>
 
