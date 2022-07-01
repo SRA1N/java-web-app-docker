@@ -42,7 +42,7 @@
 		<div class="col-md-8">
 			<h2>Welcome To MY WORLD.</h2>
 			<h3>Contact @ +91-9177792215 ,+91-9573207577</h3>
-			<h4>I LOVE YOU MADHU</h4>
+			<h4>I LOVE YOU MADHURI</h4>
 		</div>	
 	</div>
 
