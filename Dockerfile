@@ -1,3 +1,4 @@
-FROM tomcat:8.0.20-jre8
-# Dummy text to test 
-COPY target/java-web-app*.war /usr/local/tomcat/webapps/java-web-app.war
+FROM lolhens/baseimage-openjre
+ADD target/springbootApp.jar springbootApp.jar
+EXPOSE 8085
+ENTRYPOINT ["java", "-jar", "springbootApp.jar"]
